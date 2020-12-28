@@ -1,10 +1,3 @@
-Sample Module Repository
-========================
-
-This simple project is an example repo for Python projects.
-
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+形態素解析後の日本語の文のリストからストップワードを除去するためのモジュールです。
+作者が使っていたプログラムをなんとなくpipに登録しただけですので、適当に使ってください。
+ご意見はご要望はhttps://pickerlab.net/2020/12/26/ja_stopword_remover/のコメント欄までお願いします。
